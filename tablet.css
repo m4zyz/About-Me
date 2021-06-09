@@ -1,0 +1,15 @@
+/* my image */
+.about img{
+    padding: 0px 20px;
+    width: 400px;
+    height: 300px;
+}
+.name{
+    padding: 5px;
+}
+.name h2{
+    font-size: 1.7rem;
+}
+.name p{
+    font-size: 1rem;
+}

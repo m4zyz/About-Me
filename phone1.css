@@ -1,0 +1,29 @@
+/* navbar */
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* headings */
+.heading{
+    font-size: 2.3rem;
+}
+
+/* about */
+.about{
+    flex-direction: column;
+}
+.about h2{
+    text-align: center;
+}
+.about img{
+    width: 200px;
+    height: 150px;
+    padding: 0px 15px;
+}
+
+/* message box */
+#message{
+    width: 40%;
+    height: 200px;
+}

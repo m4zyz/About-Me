@@ -16,11 +16,6 @@
 .about h2{
     text-align: center;
 }
-.about img{
-    width: 200px;
-    height: 150px;
-    padding: 0px 15px;
-}
 
 /* message box */
 #message{

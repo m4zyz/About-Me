@@ -79,11 +79,6 @@
     display: flex;
     align-items: center;
 }
-.about img{
-    width: 510px;
-    height: 435px;
-    padding: 0px 30px;
-}
 .name{
     padding: 10px;
 }
